@@ -1,3 +1,6 @@
+Project based on tutorial from Traversy Media 
+https://www.youtube.com/watch?v=FiGmAI5e91M&t=2s
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
